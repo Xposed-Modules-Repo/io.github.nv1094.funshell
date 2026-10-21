@@ -85,9 +85,6 @@ QQ, Now with Superpowers
 - 协议包有时无法正确发出，但无法找到稳定复现的方式
 - 开启气泡重定向后部分用户无法在气泡商店显示应用按钮
 
-# Support / 赞助
-
-<img src="https://free.picui.cn/free/19958/2026/10/20/6ad77115cca8a.png" alt="img" width="400" height="400">
 
 
 - 赞助完全自愿，赞助者不会获得任何特权，且不赞助的用户依然可以使用所有功能。
@@ -96,9 +93,6 @@ QQ, Now with Superpowers
 
 感谢您的支持与理解！
 
-# 用户列表
-
-http://api.60s.icu/API/data/user.php
 
 --------
 
